@@ -1,4 +1,4 @@
-# RouteMate 🚇 - Your Metro Commute Companion
+# RouteMate - Your Metro Commute Companion
 **RouteMate** is a full-stack co-riding network designed for college students and daily transit commuters. Inspired by the clean and structured layout of the Delhi Metro Rail Corporation (DMRC) website, RouteMate helps users find route pools (cab-pooling, auto-sharing, or two-wheeler sharing), split daily commute costs, join campus/workplace networks, and coordinate trips via live group chats.
 
 🖥️ **Live Client UI:** [https://routemate-wine.vercel.app/](https://routemate-wine.vercel.app/)  
@@ -17,7 +17,7 @@
 *   **Mongoose** – Object Data Modeling (ODM) library for MongoDB validation and relationships.
 *   **JWT (JSON Web Tokens)** – Stateless authentication and authorization guard.
 *   **bcryptjs** – Secure hashing algorithms for user passwords.
-### **Deployment & DevOps**
+### **Deployment **
 *   **Vercel** – Hosting for the client SPA with dynamic rewriting for React Router paths.
 *   **Render** – Web Service cloud hosting for the continuous Express server.
 *   **Git & GitHub** – Version control and automated CD (Continuous Deployment) pipelines.
